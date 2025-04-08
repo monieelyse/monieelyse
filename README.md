@@ -1,7 +1,7 @@
 ## About me 
 
 
-💻 cloud application developer
+💻 cloud application developer in the workds #CCAD18
 
 🩶 i'm fond of many languages, but c++ will always be my first love
 
@@ -14,7 +14,7 @@
 🧐 I’m looking for help with getting more exposure as a young dev
 
 📫 How to reach me: monica.elyse.nelson@outlook.com
--->
+
 
 
 <!--
