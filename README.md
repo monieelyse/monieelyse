@@ -1,7 +1,7 @@
-## About me 
+## About Monica-Elyse ☺ ##
 
 
-💻 cloud application developer in the works Microsoft MSSA #CCAD18
+💻 cloud application developer in the works 》 Microsoft MSSA #CCAD18 《
 
 🩶 i'm fond of many languages, but c++ will always be my first love
 
