@@ -3,7 +3,7 @@
 
 💻 cloud application developer in the works 》 Microsoft MSSA #CCAD18 《
 
-🩶 i'm fond of many languages, but c++ will always be my first love
+ღ i'm fond of many languages, but c++ will always be my first love ღ
 
 ⌨️ favorite platform to write code: MS Word first-- i know, brutal-- then, repl.it, c++ shell, VS Studio.
 
