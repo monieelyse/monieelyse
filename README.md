@@ -1,4 +1,4 @@
-## About Monica-Elyse ☺ ##
+## About Monica-Elyse ##  # ヅ #
 
 
 💻 cloud application developer in the works 》 Microsoft MSSA #CCAD18 《
