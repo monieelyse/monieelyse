@@ -3,11 +3,11 @@
 ## About Monica-Elyse   ヅ #
 
 
-💻 cloud application developer in the works 》 Microsoft MSSA #CCAD18 《
+💻 Microsoft MSSA #CCAD18 《
 
 ღ i'm fond of many languages, but c++ will always be my first love ღ I am also a big fan of logical thinking in the forms of IPO charts, flowcharts and pseudocode.
 
-⌨️ favorite platform to write code: MS Word first-- i know, brutal-- then, repl.it, c++ shell, VS Code.
+⌨️ favorite platform to write code: Notepad first-- i know, brutal-- then, repl.it, c++ shell, VS Code.
 
 🤸🏻 The best way i squash bugs in my codes: Deductive reasoning, problem decomposition, CoPilot.. and if all else fails, a good nights sleep
 
