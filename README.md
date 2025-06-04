@@ -2,20 +2,11 @@
 
 ## About Monica-Elyse   ヅ #
 
+Driven by a passion for innovation, I am currently part of the Microsoft Software & Systems Academy (MSSA) CCAD18, where I am deepening my expertise in cloud and application development. With a strong foundation in software solutions, I thrive on building scalable, efficient, and user-centric applications that make a real impact.
 
-💻 Microsoft MSSA #CCAD18 《
+My journey has been shaped by a curiosity for emerging technologies and a dedication to continuous learning. Whether optimizing cloud infrastructure or crafting intuitive applications, I enjoy the challenge of turning ideas into reality.
 
-ღ i'm fond of many languages, but c++ will always be my first love ღ I am also a big fan of logical thinking in the forms of IPO charts, flowcharts and pseudocode.
-
-⌨️ favorite platform to write code: Notepad first-- i know, brutal-- then, repl.it, c++ shell, VS Code.
-
-🤸🏻 The best way i squash bugs in my codes: Deductive reasoning, problem decomposition, CoPilot.. and if all else fails, a good nights sleep
-
-💬 I’m looking to collaborate on new app developement ideas and like-minded devs
-
-🧐 I’m looking for help with getting more exposure as a young dev
-
-📫 How to reach me: monica.elyse.nelson@outlook.com
+I am eager to connect with like-minded professionals, collaborate on exciting projects, and contribute to the evolving world of cloud computing and software development. Let’s build something great together!
 
 
 
