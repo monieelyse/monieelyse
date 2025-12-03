@@ -2,7 +2,7 @@
 
 ## About Monica-Elyse   ヅ #
 
-Driven by a passion for innovation, I am currently part of the Microsoft Software & Systems Academy (MSSA) CCAD18, where I am deepening my expertise in cloud and application development. With a strong foundation in software solutions, I thrive on building scalable, efficient, and user-centric applications that make a real impact.
+Driven by a passion for innovation, I am a graduate of the Microsoft Software & Systems Academy (MSSA) CCAD18, where I am deepened my expertise in cloud and application development. With a strong foundation in software solutions, I thrive on building scalable, efficient, and user-centric applications that make a real impact.
 
 My journey has been shaped by a curiosity for emerging technologies and a dedication to continuous learning. Whether optimizing cloud infrastructure or crafting intuitive applications, I enjoy the challenge of turning ideas into reality.
 
